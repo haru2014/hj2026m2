@@ -61,7 +61,7 @@
 - 3s: 신발이 벗겨지고 강아지가 불편함을 느끼는 순간
 
 ### 자막
-없음
+[자꾸 벗겨지는 신발]
 
 ### 내레이션
 “자꾸 벗겨지는 신발”
@@ -104,7 +104,8 @@ cinematic close-up of a 4-year-old golden retriever dog on a dusty trail, runnin
 - 7s: 점프 후 착지해도 신발이 안정적으로 고정된 모습
 
 ### 자막
-[절대 벗겨지지 않는 편안함]
+[핏포우]
+[대형견의 역동적인 움직임에도 완벽하게 밀착됩니다]
 
 ### 내레이션
 “대형견의 역동적인 움직임에도 완벽하게 밀착됩니다.”
@@ -147,7 +148,7 @@ wide shot of a happy 4-year-old golden retriever dog energetically running and j
 - 10s: FitPaw 로고와 CTA 문구 노출
 
 ### 자막
-[핏포우 검색하기]
+[핏포우]
 
 ### 내레이션
 “프리미엄 반려견 슈즈, 핏포우.”
