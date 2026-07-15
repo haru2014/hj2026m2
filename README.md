@@ -126,7 +126,7 @@ wide shot of a happy 4-year-old golden retriever dog energetically running and j
 ### 생성 결과 파일명
 - scene02_perfect_run.png
 - scene02_jump_motion.mp4
-- scene02_bgm.wav
+- scene02_vo_final.mp3
 
 ---
 
