@@ -88,9 +88,7 @@
 | 씬 | 구간 | 길이 | 역할 |
 | --- | --- | --- | --- |
 | 씬 1 | 0s ~ 2s | 2초 | Problem
-
 | 씬 2 | 2s ~ 7s | 5초 | Solution
-
 | 씬 3 | 7s ~ 10s | 3초 | Brand Recognition & CTA
 
 
