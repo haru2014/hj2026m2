@@ -381,7 +381,7 @@ wide shot of a happy 4-year-old golden retriever dog energetically running and j
 
 본 프로젝트는 직접촬영 영상과 유료 스톡 이미지를 사용하지 않았다.
 사용된 주요 시각·청각 에셋은 AI 생성 도구를 통해 제작하였다.
-미사용 근거로 모든 생성 에셋의 메타데이터(예: EXIF 내 AI Generated 태그) 스크린샷 캡처본을 별도 첨부하였다.
+
 
 | 에셋 유형 | 사용 도구 | 사용 여부 |
 | --- | --- | --- |
@@ -393,8 +393,6 @@ wide shot of a happy 4-year-old golden retriever dog energetically running and j
 | 음성 합성 | OpenAI TTS-1 HD | 사용
 | BGM/효과음 | AI 생성 또는 직접 제작 음원 | 사용
 
-
-외부 스톡 소스를 사용할 경우에는 파일명, 출처 URL, 라이선스 종류, 사용 범위를 별도로 README에 기록한다.
 
 ---
 
